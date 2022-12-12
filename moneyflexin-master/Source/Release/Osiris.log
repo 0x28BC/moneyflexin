@@ -1,0 +1,11 @@
+﻿  imgui_widgets.cpp
+  Misc.cpp
+C:\Users\Erol  Lonzy\Desktop\moneyflexin\Osiris-master\Dependencies\imgui\imgui_widgets.cpp(1089,94): error C2065: 'gui': bildirimi yapılmamış tanımlayıcı
+C:\Users\Erol  Lonzy\Desktop\moneyflexin\Osiris-master\Dependencies\imgui\imgui_widgets.cpp(1089,113): error C2440: '<function-style-cast>': 'initializer list' - 'ImVec4' dönüşümü yapılamıyor
+C:\Users\Erol  Lonzy\Desktop\moneyflexin\Osiris-master\Dependencies\imgui\imgui_widgets.cpp(1089,113): message : Kaynak türünü hiçbir oluşturucu alamadı veya oluşturucu aşırı yük çözümü belirsizdi
+C:\Users\Erol  Lonzy\Desktop\moneyflexin\Osiris-master\Dependencies\imgui\imgui_widgets.cpp(1089,137): error C2065: 'gui': bildirimi yapılmamış tanımlayıcı
+C:\Users\Erol  Lonzy\Desktop\moneyflexin\Osiris-master\Dependencies\imgui\imgui_widgets.cpp(1090,71): error C2065: 'gui': bildirimi yapılmamış tanımlayıcı
+C:\Users\Erol  Lonzy\Desktop\moneyflexin\Osiris-master\Dependencies\imgui\imgui_widgets.cpp(1090,90): error C2440: '<function-style-cast>': 'initializer list' - 'ImVec4' dönüşümü yapılamıyor
+C:\Users\Erol  Lonzy\Desktop\moneyflexin\Osiris-master\Dependencies\imgui\imgui_widgets.cpp(1090,90): message : Kaynak türünü hiçbir oluşturucu alamadı veya oluşturucu aşırı yük çözümü belirsizdi
+C:\Users\Erol  Lonzy\Desktop\moneyflexin\Osiris-master\Dependencies\imgui\imgui_widgets.cpp(1090,114): error C2065: 'gui': bildirimi yapılmamış tanımlayıcı
+C:\Users\Erol  Lonzy\Desktop\moneyflexin\Osiris-master\Dependencies\imgui\imgui_widgets.cpp(1098,56): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
